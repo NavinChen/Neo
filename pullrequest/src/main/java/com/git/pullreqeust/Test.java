@@ -12,7 +12,7 @@ package com.git.pullreqeust;
 public class Test {
 
     public Test() {
-        System.out.println("Test Pull Request");
+        System.out.println("Test Pull Request , Hello World");
     }
     
 }
