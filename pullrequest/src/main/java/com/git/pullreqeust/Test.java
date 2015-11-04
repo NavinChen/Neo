@@ -13,6 +13,7 @@ public class Test {
 
     public Test() {
         System.out.println("Test Pull Request , Hello World，Java Lang");
+        System.out.println("Test Pull Request , Hello World，Java Lang");
         System.out.println("Test Pull Request , Hello World===");
     }
     
